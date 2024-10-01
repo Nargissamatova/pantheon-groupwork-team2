@@ -1,0 +1,6 @@
+name: myfirstdrupalsite11
+recipe: pantheon
+config:
+  framework: drupal8
+  site: myfirstdrupalsite11
+  id: 6748cf05-f55d-4e88-9933-4aa16ecabd34
